@@ -7,6 +7,15 @@
   font-display: swap;
 }
 
+/* HEX Franklin v0.3 — Medium (500) */
+@font-face {
+  font-family: 'HEX Franklin v3';
+  src: url('https://ruhmgmbh.github.io/website_font/fonts/ruhm_medium.woff2') format('woff2');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
 /* HEX Franklin v0.3 — Bold (700) */
 @font-face {
   font-family: 'HEX Franklin v3';
