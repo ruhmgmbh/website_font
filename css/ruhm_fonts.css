@@ -1,0 +1,26 @@
+/* HEX Franklin v0.3 — Regular (400) */
+@font-face {
+  font-family: 'HEX Franklin v0.3';
+  src: url('https://ruhmgmbh.github.io/website_font/fonts/ruhm_regular.woff2') format('woff2'); /* ← replace */
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* HEX Franklin v0.3 — Bold (700) */
+@font-face {
+  font-family: 'HEX Franklin v0.3';
+  src: url('https://ruhmgmbh.github.io/website_font/fonts/ruhm_bold.woff2') format('woff2'); /* ← replace */
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* HEX Franklin v0.3 Condensed — Bold (700) */
+@font-face {
+  font-family: 'HEX Franklin v0.3 Condensed';
+  src: url('https://ruhmgmbh.github.io/website_font/fonts/condensed/ruhm_Condensed-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
